@@ -1,0 +1,122 @@
+Python 2.7.3 (v2.7.3:70274d53c1dd, Apr  9 2012, 20:52:43) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+reading..
+got all the feats yo
+got all the labels yo
+1216
+building tree stuff
+valid error
+0.554471544715
+test error
+0.60325203252
+
+2432
+building tree stuff
+valid error
+0.624390243902
+test error
+0.575609756098
+
+3648
+building tree stuff
+valid error
+0.647967479675
+test error
+0.672357723577
+
+4864
+building tree stuff
+valid error
+0.656910569106
+test error
+0.632520325203
+
+6080
+building tree stuff
+valid error
+0.659349593496
+test error
+0.638211382114
+
+7296
+building tree stuff
+valid error
+0.655284552846
+test error
+0.645528455285
+
+9731
+building tree stuff
+valid error
+0.656097560976
+test error
+0.647967479675
+
+doing kernel
+0.326829268293
+
+
+done
+>>> ================================ RESTART ================================
+>>> 
+reading..
+got all the feats yo
+got all the labels yo
+1216
+building tree stuff
+valid error
+0.554471544715
+test error
+0.60325203252
+
+2432
+building tree stuff
+valid error
+0.624390243902
+test error
+0.575609756098
+
+3648
+building tree stuff
+valid error
+0.647967479675
+test error
+0.672357723577
+
+4864
+building tree stuff
+valid error
+0.656910569106
+test error
+0.632520325203
+
+6080
+building tree stuff
+valid error
+0.659349593496
+test error
+0.638211382114
+
+7296
+building tree stuff
+valid error
+0.655284552846
+test error
+0.645528455285
+
+9731
+building tree stuff
+valid error
+0.656097560976
+test error
+0.647967479675
+
+doing kernel
+0.326829268293
+
+
+done
+>>> 

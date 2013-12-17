@@ -1,0 +1,267 @@
+Python 2.7.3 (v2.7.3:70274d53c1dd, Apr  9 2012, 20:52:43) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+reading..
+got all the feats yo
+got all the labels yo
+1230
+got the avg weight vector
+15.7557191325
+Averaged:
+It got 498.0 wrong out of 1216
+It got 584.0 wrong out of 1230
+building tree stuff
+0.517073170732
+1230
+got the avg weight vector
+16.6453706597
+Averaged:
+It got 944.0 wrong out of 2432
+It got 498.0 wrong out of 1230
+building tree stuff
+0.514634146341
+1230
+got the avg weight vector
+17.4219357636
+Averaged:
+It got 1407.0 wrong out of 3648
+It got 463.0 wrong out of 1230
+building tree stuff
+0.518699186992
+1230
+got the avg weight vector
+10.1780217814
+Averaged:
+It got 1835.0 wrong out of 4864
+It got 506.0 wrong out of 1230
+building tree stuff
+0.517073170732
+1230
+got the avg weight vector
+8.71161615235
+Averaged:
+It got 2314.0 wrong out of 6080
+It got 467.0 wrong out of 1230
+building tree stuff
+0.509756097561
+1230
+got the avg weight vector
+7.45692908559
+Averaged:
+It got 2747.0 wrong out of 7296
+It got 470.0 wrong out of 1230
+building tree stuff
+0.576422764228
+1230
+got the avg weight vector
+6.41025350699
+Averaged:
+It got 3627.0 wrong out of 9731
+It got 442.0 wrong out of 1230
+building tree stuff
+0.573983739837
+doing kernel
+0.49918699187
+
+
+done
+>>> ================================ RESTART ================================
+>>> 
+reading..
+got all the feats yo
+got all the labels yo
+1230
+got the avg weight vector
+15.7557191325
+Averaged:
+It got 498.0 wrong out of 1216
+It got 584.0 wrong out of 1230
+building tree stuff
+0.486991869919
+1230
+got the avg weight vector
+16.6453706597
+Averaged:
+It got 944.0 wrong out of 2432
+It got 498.0 wrong out of 1230
+building tree stuff
+0.522764227642
+1230
+got the avg weight vector
+17.4219357636
+Averaged:
+It got 1407.0 wrong out of 3648
+It got 463.0 wrong out of 1230
+building tree stuff
+0.552845528455
+1230
+got the avg weight vector
+10.1780217814
+Averaged:
+It got 1835.0 wrong out of 4864
+It got 506.0 wrong out of 1230
+building tree stuff
+0.550406504065
+1230
+got the avg weight vector
+8.71161615235
+Averaged:
+It got 2314.0 wrong out of 6080
+It got 467.0 wrong out of 1230
+building tree stuff
+0.545528455285
+1230
+got the avg weight vector
+7.45692908559
+Averaged:
+It got 2747.0 wrong out of 7296
+It got 470.0 wrong out of 1230
+building tree stuff
+0.569105691057
+1230
+got the avg weight vector
+6.41025350699
+Averaged:
+It got 3627.0 wrong out of 9731
+It got 442.0 wrong out of 1230
+building tree stuff
+0.571544715447
+doing kernel
+0.49918699187
+
+
+done
+>>> ================================ RESTART ================================
+>>> 
+reading..
+got all the feats yo
+got all the labels yo
+1230
+got the avg weight vector
+15.7557191325
+Averaged:
+It got 498.0 wrong out of 1216
+It got 584.0 wrong out of 1230
+building tree stuff
+0.486991869919
+1230
+got the avg weight vector
+16.6453706597
+Averaged:
+It got 944.0 wrong out of 2432
+It got 498.0 wrong out of 1230
+building tree stuff
+0.522764227642
+1230
+got the avg weight vector
+17.4219357636
+Averaged:
+It got 1407.0 wrong out of 3648
+It got 463.0 wrong out of 1230
+building tree stuff
+0.552845528455
+1230
+got the avg weight vector
+10.1780217814
+Averaged:
+It got 1835.0 wrong out of 4864
+It got 506.0 wrong out of 1230
+building tree stuff
+0.550406504065
+1230
+got the avg weight vector
+8.71161615235
+Averaged:
+It got 2314.0 wrong out of 6080
+It got 467.0 wrong out of 1230
+building tree stuff
+0.545528455285
+1230
+got the avg weight vector
+7.45692908559
+Averaged:
+It got 2747.0 wrong out of 7296
+It got 470.0 wrong out of 1230
+building tree stuff
+0.569105691057
+1230
+got the avg weight vector
+6.41025350699
+Averaged:
+It got 3627.0 wrong out of 9731
+It got 442.0 wrong out of 1230
+building tree stuff
+0.571544715447
+doing kernel
+0.49918699187
+
+
+done
+>>> ================================ RESTART ================================
+>>> 
+reading..
+got all the feats yo
+got all the labels yo
+1230
+got the avg weight vector
+15.7557191325
+Averaged:
+It got 498.0 wrong out of 1216
+It got 584.0 wrong out of 1230
+building tree stuff
+0.486991869919
+1230
+got the avg weight vector
+16.6453706597
+Averaged:
+It got 944.0 wrong out of 2432
+It got 498.0 wrong out of 1230
+building tree stuff
+0.522764227642
+1230
+got the avg weight vector
+17.4219357636
+Averaged:
+It got 1407.0 wrong out of 3648
+It got 463.0 wrong out of 1230
+building tree stuff
+0.552845528455
+1230
+got the avg weight vector
+10.1780217814
+Averaged:
+It got 1835.0 wrong out of 4864
+It got 506.0 wrong out of 1230
+building tree stuff
+0.550406504065
+1230
+got the avg weight vector
+8.71161615235
+Averaged:
+It got 2314.0 wrong out of 6080
+It got 467.0 wrong out of 1230
+building tree stuff
+0.545528455285
+1230
+got the avg weight vector
+7.45692908559
+Averaged:
+It got 2747.0 wrong out of 7296
+It got 470.0 wrong out of 1230
+building tree stuff
+0.569105691057
+1230
+got the avg weight vector
+6.41025350699
+Averaged:
+It got 3627.0 wrong out of 9731
+It got 442.0 wrong out of 1230
+building tree stuff
+0.571544715447
+doing kernel
+0.49918699187
+
+
+done

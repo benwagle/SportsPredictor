@@ -1,0 +1,57 @@
+Python 2.7.3 (v2.7.3:70274d53c1dd, Apr  9 2012, 20:52:43) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+reading..
+got all the feats yo
+got all the labels yo
+1216
+got the avg weight vector
+Averaged:
+It got 398.0 wrong out of 1216
+It got 424.0 wrong out of 1230
+It got 480.0 wrong out of 1230
+2432
+got the avg weight vector
+Averaged:
+It got 829.0 wrong out of 2432
+It got 420.0 wrong out of 1230
+It got 462.0 wrong out of 1230
+3648
+got the avg weight vector
+Averaged:
+It got 1258.0 wrong out of 3648
+It got 413.0 wrong out of 1230
+It got 456.0 wrong out of 1230
+4864
+got the avg weight vector
+Averaged:
+It got 1725.0 wrong out of 4864
+It got 415.0 wrong out of 1230
+It got 447.0 wrong out of 1230
+6080
+got the avg weight vector
+Averaged:
+It got 2146.0 wrong out of 6080
+It got 425.0 wrong out of 1230
+It got 473.0 wrong out of 1230
+7296
+got the avg weight vector
+Averaged:
+It got 2585.0 wrong out of 7296
+It got 423.0 wrong out of 1230
+It got 475.0 wrong out of 1230
+9731
+got the avg weight vector
+Averaged:
+It got 3400.0 wrong out of 9731
+It got 416.0 wrong out of 1230
+It got 481.0 wrong out of 1230
+doing kernel
+0.326829268293
+
+
+done
+>>> ================================ RESTART ================================
+>>> 
