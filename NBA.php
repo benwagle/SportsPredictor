@@ -1,10 +1,12 @@
 <?php
+
+//********************** link fetching code ************************//
 $teams=array("bos", "bkn", "ny", "phi", "tor", "gs", "lac", "lal", "phx", "sac", "chi", "cle", "det", "ind", "mil", "dal", "hou", "mem", "no", "sa","atl", "cha", "mia", "orl", "wsh","den", "min", "okc", "por", "utah");
 $games=array();
 
 for($n=0; $n<sizeof($teams); $n++)
   {
-	$S= "http://espn.go.com/nba/team/schedule/_/name/". $teams[$n] ."/year/2004/seasontype/2/";
+	$S= "http://espn.go.com/nba/team/schedule/_/name/". $teams[$n] ."/year/2009/seasontype/2/";
 	$stuff= file_get_contents($S);
 	$gameID= explode("recap?id=", $stuff);
 	for($x=1; $x<sizeof($gameID); $x++)
@@ -34,6 +36,12 @@ for($n=0; $n<sizeof($teams); $n++)
 	  	      }
 	     }
    }
+
+//****************************************************************//
+
+
+
+//****************   stats pulling code *************************//
 for($j=0; $j<sizeof($games); $j++)
    {
 		$url= "http://espn.go.com/nba/boxscore?gameId=".$games[$j];
@@ -81,5 +89,5 @@ for($j=0; $j<sizeof($games); $j++)
 		print("</br>");
 
     }
-
+//******************************************************//
 ?>

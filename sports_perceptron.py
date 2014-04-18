@@ -100,12 +100,12 @@ def main():
     print("got all the feats yo")
     
    #get the labels
-    for i in range(len(labels)):
-        if labels[i]==0:
-            labels[i]=-1          
-    for i in range(len(testLabels)):
-       if testLabels[i]==0:
-            testLabels[i]=-1
+##    for i in range(len(labels)):
+##        if labels[i]==0:
+##            labels[i]=-1          
+##    for i in range(len(testLabels)):
+##       if testLabels[i]==0:
+##            testLabels[i]=-1
 
     print("got all the labels yo")
     '''
